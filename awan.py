@@ -24,7 +24,12 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 os.system('termux-setup-storage')
 os.system('clear')
-logo = '\n\n\x1b[1;92m\n   _____    _________  \n  /  _  \\   \\_   ___ \\ \n /  /_\\  \\  /    \\  \\/  \x1b[1;93m SPEEDI UPDATE 2.0.1"\x1b[1;92m\n/    |    \\ \\     \\____\n\\____|__  /  \\______  /\n        \\/          \\/ \n\x1b[1;97m----------------------------------------------\n   Author   : Awanhaxor\n   Github   : https://github.com/haxorawwnn\n \n----------------------------------------------\n             \x1b[1;92mFREE MODE ACTIVATED\n\x1b[1;97m------------------------------------------------\nBE A GOOD PERSON BUT DONT WASTE TIME TO PROVE IT\n------------------------------------------------ '
+logo = '\n\n\x1b[1;92m\n   _____    _________  \n  /       (  __  \ (  ____ \|\     /|\__   __/( \         \x1b[1;93m SPEEDI UPDATE 2.0.1"\x1b[1;92m\n/  | (  \  )| (    \/| )   ( |   ) (   | (      
+| |   ) || (__    | |   | |   | |   | |      
+| |   | ||  __)   ( (   ) )   | |   | |      
+| |   ) || (       \ \_/ /    | |   | |      
+| (__/  )| (____/\  \   /  ___) (___| (____/\
+(______/ (_______/   \_/   \_______/(_______/ \n\x1b[1;97m----------------------------------------------\n   Author   : Awanhaxor\n   Github   : https://github.com/haxorawwnn\n \n----------------------------------------------\n             \x1b[1;92mFREE MODE ACTIVATED\n\x1b[1;97m------------------------------------------------\nBE A GOOD PERSON BUT DONT WASTE TIME TO PROVE IT\n------------------------------------------------ '
 CorrectUsername = 'awan'
 loop = 'true'
 while loop == 'true':
